@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# KimPuro's Next.js Template
 
-First, run the development server:
+Welcome to my Next.js project template, designed for quick and efficient web development using JavaScript, React, Next.js, and Tailwind CSS. This template is built upon the `create-next-app` setup, enhanced with a custom folder structure tailored by KimPuro to provide a solid foundation for scaling and customization.
+
+## 🚀 Getting Started
+
+To use this template, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/KimPuro/nextjs-template.git
+cd <project-directory>
+npm install
+```
+
+Then, start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit `http://localhost:3000` to view your project.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📁 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This template organizes files and directories as follows to facilitate development and maintenance:
 
-## Learn More
+- `public/`
+    - `fonts/` - Custom fonts for your project.
+    - `images/` - Image files.
+    - `svgs/` - SVG icons and images.
 
-To learn more about Next.js, take a look at the following resources:
+- `src/`
+    - `app/` 
+        - `[dynamic]/` - Dynamic pages.
+        - `api/` - API routes.
+    - `components/` - React components.
+    - `constants/` - Constant values.
+    - `data/` - Static data used across the app.
+    - `hooks/` - Custom React hooks.
+    - `libs/` - Libraries and utilities.
+    - `services/` - Service functions for external API calls.
+    - `states/` - Global state management.
+    - `styles/` - Global styles and Tailwind utilities.
+    - `utils/` - Utility functions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💡 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **React**: Build UI components with React.
+- **Next.js**: Server-side rendering and static site generation.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **Flexible Structure**: Easily adaptable to fit various project needs.
 
-## Deploy on Vercel
+## 📚 Documentation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+For detailed information about Next.js and Tailwind CSS, visit their official documentation:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+
+Feel free to use and modify this template for both personal and commercial projects. Happy coding!
