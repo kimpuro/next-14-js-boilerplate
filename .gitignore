@@ -131,3 +131,6 @@ dist
 
 # intelij
 .idea
+
+# mac
+.DS_Store
