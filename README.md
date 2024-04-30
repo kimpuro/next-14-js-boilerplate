@@ -1,5 +1,5 @@
 
-# KimPuro's Next.js Template
+# KimPuro's Next.js Boilerplate
 
 Welcome to my Next.js project template, designed for quick and efficient web development using JavaScript, React, Next.js, and Tailwind CSS. This template is built upon the `create-next-app` setup, enhanced with a custom folder structure tailored by KimPuro to provide a solid foundation for scaling and customization.
 
