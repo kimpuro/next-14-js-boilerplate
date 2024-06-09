@@ -33,3 +33,9 @@ TypeScript, React, Next.js, Tailwind CSS, Three.js, Recoil, Supabase
 신발 색의 상태는 리코일을 통해 관리됩니다.
 3d 모델링은 매쉬마다 각각 따로 상태를 저장하므로 추후 구매 기능을 추가한다면
 본인이 선택한 색을 불러올 수 있습니다.
+
+## 설명 영상
+<a href="https://youtu.be/4NxH_T_iw7c?si=MjZN173J8P07l-5m&t=118">
+링크입니다
+</a>
+
