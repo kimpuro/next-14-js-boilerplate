@@ -7,7 +7,7 @@ Welcome to my Next.js project template, designed for quick and efficient web dev
 To use this template, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/KimPuro/nextjs-template.git
+git clone https://github.com/kimpuro/next-14-js-boilerplate.git
 cd <project-directory>
 npm install
 ```
