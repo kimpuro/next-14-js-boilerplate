@@ -34,8 +34,6 @@ This template organizes files and directories as follows to facilitate developme
         - `[dynamic]/` - Dynamic pages.
         - `api/` - API routes.
     - `components/` - React components.
-    - `constants/` - Constant values.
-    - `data/` - Static data used across the app.
     - `hooks/` - Custom React hooks.
     - `libs/` - Libraries and utilities.
     - `services/` - Service functions for external API calls.
